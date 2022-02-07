@@ -1,4 +1,4 @@
-# Dart & Flutter Cheatsheets
+# Dart & Flutter Cheat Sheets
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
@@ -6,9 +6,9 @@
 
 This repository contains cheat sheets for the [Dart](https://dart.dev/) programming language and the [Flutter](https://flutter.dev/) UI Framework.
 
-After using Flutter for some time I realized that there were no great cheatsheets for either the Dart or Flutter.  All the ones that show up high in Google searches are often out of date, incomplete and or not really cheat**sheets**!
+After using Flutter for some time I realized that there were no great cheat sheets for either the Dart or Flutter.  All the ones that show up high in Google searches are often out of date, incomplete and or not really cheat**sheets**!
 
-So, I've created a set of cheatsheets based on the following tenets:
+So, I've created a set of cheat sheets based on the following tenets:
 
 - It should fit on no more than one sheet of paper, utilizing both sides.  It's supposed to be a desktop reference IMHO.
 - By itself, it cannot teach you a topic, only to help you better memorize it, so you still need to consult the documentation for the full semantics.
@@ -20,7 +20,7 @@ Please file an issue if you have suggestions for improvements or you spot bugs, 
 
 ## Dart
 
-The [Dart Language Cheatsheet](dart/Dart%20Cheat%20Sheet.pdf) contains all the core features of the [Dart Language Tour](https://dart.dev/guides/language/language-tour) page.
+The [Dart Language Cheat Sheet](dart/Dart%20Cheat%20Sheet.pdf) contains all the core features of the [Dart Language Tour](https://dart.dev/guides/language/language-tour) page.
 
 There's a shocking lack of up to date Dart programming language books on Amazon. In particular, a Dart reference that does not include [sound null safety](https://dart.dev/null-safety) is woefully out of date at this point.  The [Dart Specification](https://dart.dev/guides/language/specifications/DartLangSpec-v2.10.pdf) is a bit of a beast and is of course the difinitive text on the language.
 
@@ -32,7 +32,7 @@ Other Dart cheats:
 
 ## Flutter
 
-Still working on the Flutter cheatsheet. Star the repo and check back soon!
+Still working on the Flutter cheat sheet. Star the repo and check back soon!
 
 ---
 *Copyright (c) John Lyon-Smith, 2022.*
