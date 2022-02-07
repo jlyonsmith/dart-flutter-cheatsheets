@@ -4,17 +4,19 @@
 
 ---
 
+[Dart Language Cheat Sheet](dart/Dart%20Cheat%20Sheet.pdf)
+
 This repository contains cheat sheets for the [Dart](https://dart.dev/) programming language and the [Flutter](https://flutter.dev/) UI Framework.
 
-After using Flutter for some time I realized that there were no great cheat sheets for either the Dart or Flutter.  All the ones that show up high in Google searches are often out of date, incomplete and or not really cheat**sheets**!
+After using Flutter for some time I realized that there were no comprehensive cheat sheets for either Dart or Flutter.  All the ones that show up high in Google searches are often out of date or incomplete.
 
-So, I've created a set of cheat sheets based on the following tenets:
+So, I've created a set of cheat sheets based on the following principles:
 
-- It should fit on no more than one sheet of paper, utilizing both sides.  It's supposed to be a desktop reference IMHO.
-- By itself, it cannot teach you a topic, only to help you better memorize it, so you still need to consult the documentation for the full semantics.
+- It should fit on no more than one sheet of paper, utilizing both sides.  It's supposed to be a foldable desktop reference IMHO.
+- It should give the highlights, not try to teach you the whole language, tool or framework. You still need to consult the documentation for the full semantics.
 - It should be well organized, formatted in no more than three columns per side, and utilize an easy to read font.
 
-Right now I just used Apple Pages to create the documents. I may convert to Latex in future if it gets a lot of interest and people want to submit pull requests.
+Right now I'v used Apple Pages to create the cheat sheets. I may convert to Latex in future if it gets a lot of interest and people want to submit pull requests.
 
 Please file an issue if you have suggestions for improvements or you spot bugs, typo's, or omissions.
 
