@@ -24,9 +24,9 @@ Please file an issue if you have suggestions for improvements or you spot bugs, 
 
 The [Dart Language Cheat Sheet](dart/Dart%20Cheat%20Sheet.pdf) contains all the core features of the [Dart Language Tour](https://dart.dev/guides/language/language-tour) page.
 
-There's a shocking lack of up to date Dart programming language books on Amazon. In particular, a Dart reference that does not include [sound null safety](https://dart.dev/null-safety) is woefully out of date at this point.  The [Dart Specification](https://dart.dev/guides/language/specifications/DartLangSpec-v2.10.pdf) is a bit of a beast and is of course the difinitive text on the language.
+There's a shocking lack of up to date Dart programming language books on Amazon. In particular, a Dart reference that does not include [sound null safety](https://dart.dev/null-safety) is woefully out of date at this point.  The [Dart Specification](https://dart.dev/guides/language/specifications/DartLangSpec-v2.10.pdf) is a bit of a beast but is of course the definitive text on the language.
 
-Other Dart cheats:
+Other Dart cheatsheets:
 
 - [Googles Dart Language Cheetsheet](https://dart.dev/guides/language/cheatsheet) - Promising, but it's too short, incomplete and not a printable cheat**sheet**.
 - [Ray Wunderlich](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.1c.pdf) - out of date, missing stuff and honestly a bit hard to read!
